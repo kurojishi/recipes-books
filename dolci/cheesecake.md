@@ -16,6 +16,8 @@
 * il succo spremuto di mezzo limone
 * 3 uova grandi
 * 3 cucchiai di farina
+Optionale:
+* 2 cucchiaini di amazake per un sapore un po' piu' maltato
 
 Preparazione
 
