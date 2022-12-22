@@ -1,12 +1,14 @@
-# Ingredienti
+# Cheesecake
 
-## base
+## Ingredienti
+
+### base
 
 * 200gr di biscotti secchi tipo oro saiwa;
 * 120gr di burro
 * due cucchiai di zucchero
 
-## ripieno
+### ripieno
 
 * 200gr di robiola
 * 80gr di philadelphia
@@ -19,13 +21,13 @@
 Optionale:
 * 2 cucchiaini di amazake per un sapore un po' piu' maltato
 
-Preparazione
+## Preparazione
 
-per la base:
+### Base
 
 Tritare finemente i biscotti ed unire lo zucchero. Nel frattempo sciogliere il burro a bagnomaria. Unire quindi il burro fuso ai biscotti tritati e allo zucchero e mescolare bene, poi spargere il composto sulla base della tortiera (quelle rotonde a cerniera con base 28 o 30 cm di diametro vanno bene). Una volta sparsa uniformemente la base, mettere in frigo.
 
-per il ripieno: 
+### Ripieno
 
 Separare i tuorli dall'albume e tenere a parte l'albume.
 Lavorare in una ciotola abbastanza grande i tuorli delle uova insieme allo zucchero, alla robiola ed al philadelphia finché non diventano un composto più o meno uniforme, dopodiché aggiungere la panna liquida, il succo di limone, la vanillina e la farina e mescolare bene finché il composto liquido non diventa uniforme di nuovo. Con la frusta
