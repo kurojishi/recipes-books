@@ -11,15 +11,17 @@
 ### ripieno
 
 * 200gr di robiola
-* 80gr di philadelphia
+* 80gr di Philadelphia
 * 200gr di zucchero
 * 500ml di panna per dolci
 * una bustina di vanillina
 * il succo spremuto di mezzo limone
 * 3 uova grandi
 * 3 cucchiai di farina
-Optionale:
-* 2 cucchiaini di amazake per un sapore un po' piu' maltato
+
+Opzionale:
+
+* 2 cucchiaini di amazake per un sapore un po' più' maltato
 
 ## Preparazione
 
