@@ -9,7 +9,7 @@
 - [ ] 250g cioccolato (150: impasto 100: ?)
 - [ ] Un vasetto di marmellata di albicocche
 - [ ] 40g mandorle tritate
-- [ ] 2 cucchiai di lievito pan degli angeli
+- [ ] 1 bustina di lievito pan degli angeli
 - [ ] 4 cucchiai di latte
 - [ ] zucchero a velo
 
@@ -21,7 +21,7 @@ a bagnomaria (45C) con fino a 4 cucchiai di latte, mescolando cosi' che non si a
 Fate ammorbidire il burro e tagliatelo a pezzi, lavoratelo con 80g di zucchero
 fino ad ottenere una crema soffice, aggiungete le uova e amalgamate,
 aggiungerete il cioccolato liquefatto e mescolate
-Aggiungete le mandorle tritate fine, la farina e gli albumi montati a neve.
+Aggiungete le mandorle tritate fine, la farina, i lievito e gli albumi montati a neve.
 
 Mette in forno a 190C per circa 50 minuti.
 
