@@ -34,6 +34,6 @@ Preparate la marmellata in un pentolina con poca acqua per farla diventare più
 morbida, una volta scaldata e amalgamata farcite il centro e il sopra della
 torta.
 
-Sciogliete il resto del cioccolato (100g) mescolandolo con lo zucchero e un bicchiere
+Sciogliete il resto del cioccolato (100g) mescolandolo con due cucchiai di zucchero a velo e un bicchiere
 d'acqua.
 Fate ridurre la glassa e poi versatela sulla torta e spalmatela.
