@@ -3,7 +3,7 @@
 ## Ingredienti
 
 - [ ] 150g farina 00
-- [ ] 150g zucchero
+- [ ] 120g zucchero
 - [ ] 150g burro
 - [ ] 5 uova
 - [ ] 250g cioccolato (150: impasto 100: ?)
@@ -18,7 +18,7 @@
 Preparare la base con 150g di cioccolato fondente tritato, fatto sciogliere
 a bagnomaria (45C) con fino a 4 cucchiai di latte, mescolando cosi' che non si attacchi.
 
-Fate ammorbidire il burro e tagliatelo a pezzi, lavoratelo con 80g di zucchero
+Fate ammorbidire il burro e tagliatelo a pezzi, lavoratelo con 120g di zucchero
 fino ad ottenere una crema soffice, aggiungete le uova e amalgamate,
 aggiungerete il cioccolato liquefatto e mescolate
 Aggiungete le mandorle tritate fine, la farina, i lievito e gli albumi montati a neve.
@@ -30,7 +30,7 @@ delicatamente a meta'.
 
 ## Glassa e farcitura
 
-Preparate la marmellata in un pentolina con poca acqua per farla diventare più
+Preparate la marmellata in un pentolina con poca acqua(1/2 bicchiere) per farla diventare più
 morbida, una volta scaldata e amalgamata farcite il centro e il sopra della
 torta.
 
