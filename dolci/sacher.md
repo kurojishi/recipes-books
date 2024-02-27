@@ -1,4 +1,4 @@
-# Sacher
+Are we sure we want to call this thing kernel? Considering there's already a well defined  term for that, and you still use the actual akernel (For obious reasons) this is bound to get extremely confusing# Sacher
 
 ## Ingredienti
 
@@ -18,12 +18,13 @@
 Preparare la base con 150g di cioccolato fondente tritato, fatto sciogliere
 a bagnomaria (45C) con fino a 4 cucchiai di latte, mescolando cosi' che non si attacchi.
 
-Fate ammorbidire il burro e tagliatelo a pezzi, lavoratelo con 120g di zucchero
-fino ad ottenere una crema soffice, aggiungete le uova e amalgamate,
-aggiungerete il cioccolato liquefatto e mescolate
+Fate ammorbidire il burro e tagliatelo a pezzi, (cooking chef, fai ammorbidire
+a 25 gradi nella planetaria), lavoratelo con 120g di zucchero
+fino ad ottenere una crema soffice, aggiungete i tuorli delle uova, tenendo da parte gli albumi e amalgamate,
+aggiungerete il cioccolato liquefatto e mescolate.
 Aggiungete le mandorle tritate fine, la farina, i lievito e gli albumi montati a neve.
 
-Mette in forno a 190C per circa 50 minuti.
+Mette in forno non ventilato a 190C per circa 50(controllo a 40) minuti.
 
 Fate raffreddare, rendete la torta il più piano possibile e tagliatela
 delicatamente a meta'.
